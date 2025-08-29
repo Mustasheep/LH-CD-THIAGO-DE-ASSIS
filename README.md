@@ -14,6 +14,8 @@ A meta final é responder algumas perguntas do desafio e prever a nota IMDB do f
 LightHouse-DataScience/
 ├── data/
 │   └── desafio_indicium_imdb.csv       # Dataset do desafio
+├── img/                                # Pasta com imagens para o README
+│   └── diretoriocmd.png
 ├── models/
 │   └── modelo_ridge.pkl                # Modelo de regressão com Ridge
 ├── notebooks/          
