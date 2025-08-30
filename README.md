@@ -32,6 +32,8 @@ Certifique-se de instalar essas ferramentas nas versões descritas ou superiores
 - **Python 3.12**
 - **Git 2.51**
 - **VSCode 1.103.2**
+  - Extensões do VSCode:
+    - Jupyter Notebook
 
 ### 1. Escolha um diretório
 
