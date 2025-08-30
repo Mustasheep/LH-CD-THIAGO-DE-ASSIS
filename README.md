@@ -74,4 +74,4 @@ pip install -r requirements.txt
 
 ## Acessando o projeto
 
-Finalizada a instalação, acesse o notebook em `notebooks/desafio_indicium.ipynb` e conecte o kernel `.venv` após iniciar a primeira célula do notebook. Após isso, iniciar as demais celular para rodar todo o projeto.
+Finalizada a instalação, acesse o notebook em `notebooks/desafio_indicium.ipynb` e conecte o kernel `.venv` após iniciar a primeira célula do notebook. Após isso, iniciar as demais células para rodar todo o projeto.
